@@ -702,11 +702,11 @@ footer .centerbox1200 .logo p {
       opacity: 1;
       left: auto;
     }
-    footer .centerbox1200 .logo a img {
+  }
+  footer .centerbox1200 .logo a img {
     width: 130px;
   }
   footer .centerbox1200 .logo p {
     font-size: 14px;
-  }
   }
 }
